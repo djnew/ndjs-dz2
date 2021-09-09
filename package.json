@@ -1,0 +1,14 @@
+{
+  "name": "dz2",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "aklementev <aklementev@turbozaim.ru>",
+  "license": "MIT",
+  "scripts": {
+    "lint": "eslint --ext \".js\" --ignore-path .gitignore ."
+  },
+  "dependencies": {
+    "eslint": "^7.32.0",
+    "yargs": "^17.1.1"
+  }
+}
